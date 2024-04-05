@@ -9,7 +9,6 @@ function App() {
     <>
       <h1>Color Matching Game</h1>
       <p>by React, TypeScript</p>
-      <p>@kychancq</p>
       <div className="card">
         <button onClick={() => navigate('./play')}>Play</button>
         <button onClick={() => navigate('./instruction')}>Instructions</button>
